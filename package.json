@@ -1,0 +1,24 @@
+{
+  "name": "spendingtrackerserver",
+  "version": "0.0.1",
+  "description": "the server for the spending tracker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spending",
+    "tracker",
+    "app",
+    "server",
+    "upload",
+    "image"
+  ],
+  "author": "Gregory Venezia",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
